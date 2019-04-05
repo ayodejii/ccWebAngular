@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\bin\Debug\CC.Model.dll
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\bin\Debug\CC.Model.pdb
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\obj\Debug\CC.Model.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\obj\Debug\CC.Model.dll
+C:\Users\dell\Desktop\isaac\issaac\Building Apps with AngularJS and Breeze - Part 1\App\05-object-graphs-extending-models-and-custom-directives\Ang-05\Code\after\CC.Web\CC.Model\obj\Debug\CC.Model.pdb
